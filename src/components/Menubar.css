@@ -1,0 +1,13 @@
+.menubar{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid gray;
+    margin: 1px;
+    padding: 0.5rem;
+    font-size:18px;
+    color: gray;
+
+    
+
+    
+}
